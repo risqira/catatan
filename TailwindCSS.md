@@ -5,7 +5,8 @@ REQUIREMENTS
 4. Package Manager : NPM (Node.js)
 5. Terminal:Powershell,Git Bash dll..
 
-INSTALASI & KONFIGURASI TAILWINDCSS
 
+
+INSTALASI & KONFIGURASI TAILWINDCSS
 1. npm install -D tailwindcss
 2. npx tailwindcss init
