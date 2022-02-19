@@ -8,5 +8,8 @@ REQUIREMENTS
 
 
 INSTALASI & KONFIGURASI TAILWINDCSS
+-CDN
+script src="https://cdn.tailwindcss.com"></script>
+-Offline
 1. npm install -D tailwindcss
 2. npx tailwindcss init
