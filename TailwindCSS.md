@@ -8,9 +8,10 @@ REQUIREMENTS
 
 
 INSTALASI & KONFIGURASI TAILWINDCSS
+
 -CDN : script src="https://cdn.tailwindcss.com"></script>
 
--Offline
+-TailwinCLI :
 1. npm init -y
 2. npm install -D tailwindcss postcss autoprefixer
 3. npx tailwindcss init (create file config tailwind : tailwind.config.js)
