@@ -25,4 +25,7 @@ INSTALASI & KONFIGURASI TAILWINDCSS
 9.  link rel="stylesheet" href="/trytailwind/public/css/style.css" 
 10.  SELESAI
 
-
+SHORTCUT DEBUG
+1. buka package.json
+2. "dev": "npx tailwindcss -i ./src/css/input.css -o ./public/css/style.css --watch"
+3. npm run dev
