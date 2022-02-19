@@ -11,7 +11,7 @@ INSTALASI & KONFIGURASI TAILWINDCSS
 
 -CDN : script src="https://cdn.tailwindcss.com"></script>
 
--TailwinCLI :
+-TailwindCLI :
 1. npm init -y
 2. npm install -D tailwindcss postcss autoprefixer
 3. npx tailwindcss init (create file config tailwind : tailwind.config.js)
@@ -24,5 +24,5 @@ INSTALASI & KONFIGURASI TAILWINDCSS
 8. proses build > npx tailwindcss -i ./src/css/input.css -o ./public/css/style.css --watch
 9.  <link rel="stylesheet" href="/trytailwind/public/css/style.css" />
 10.  SELESAI
-11.  
+
 
