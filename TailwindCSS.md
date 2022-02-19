@@ -22,7 +22,7 @@ INSTALASI & KONFIGURASI TAILWINDCSS
    @tailwind components;
    @tailwind utilities;  
 8. proses build > npx tailwindcss -i ./src/css/input.css -o ./public/css/style.css --watch
-9.  <link rel="stylesheet" href="/trytailwind/public/css/style.css" />
+9.  link rel="stylesheet" href="/trytailwind/public/css/style.css" 
 10.  SELESAI
 
 
