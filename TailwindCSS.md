@@ -8,9 +8,7 @@ REQUIREMENTS
 
 
 INSTALASI & KONFIGURASI TAILWINDCSS
-
 -CDN : script src="https://cdn.tailwindcss.com"></script>
-
 -TailwindCLI :
 1. npm init -y
 2. npm install -D tailwindcss postcss autoprefixer
@@ -25,7 +23,12 @@ INSTALASI & KONFIGURASI TAILWINDCSS
 9.  link rel="stylesheet" href="/trytailwind/public/css/style.css" 
 10.  SELESAI
 
+
 SHORTCUT DEBUG
 1. buka package.json
 2. "dev": "npx tailwindcss -i ./src/css/input.css -o ./public/css/style.css --watch"
 3. npm run dev
+
+MENGECILKAN UKURAN CSS (JIKA SUDAH END)
+1. npx tailwindcss -o .public/css/final.css --minify
+2. link rel="stylesheet" href="/trytailwind/public/css/final.css" 
